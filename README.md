@@ -16,7 +16,7 @@ This project uses a modern **React + FastAPI** architecture:
 ## 🌐 Live Demo
 
 - **Backend API**: [http://54.93.51.85:8000/](http://54.93.51.85:8000/)
-- **API Documentation**: [http://54.93.51.85:8000/docs](http://54.93.51.85:8000/docs) (OpenAPI/Swagger UI)
+- **API**: [http://54.93.51.85:8000/docs](http://54.93.51.85:8000/docs) (OpenAPI/Swagger UI)
 
 ---
 
@@ -403,6 +403,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👥 Team
 
-Developed by **MDA Group 20** as part of the EU Horizon research analysis project.
+Developed by **MDA Group 12** as part of the EU Horizon research analysis project.
 
 For questions, issues, or contributions, please open an issue on GitHub or contact the development team.
